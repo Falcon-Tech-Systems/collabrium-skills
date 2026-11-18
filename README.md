@@ -1,7 +1,7 @@
 # Collabrium skills
 
 A curated catalog of free, open-source [Agent Skills](https://agentskills.io) for
-[Collabrium](https://github.com/Falcon-Tech-Systems/falconloop), the AI-native workspace by Falcon Tech Systems.
+[Collabrium](https://collabrium.si), the AI-native workspace by Falcon Tech Systems.
 
 A skill is a folder with a `SKILL.md` (YAML frontmatter with `name` and `description`, then instructions in Markdown)
 and, optionally, reference files, templates and scripts. An agent sees each skill's name and description, and reads the
