@@ -1,0 +1,13 @@
+# Source of `discernment-nudge`
+
+- Upstream repository: https://github.com/anthropics/skills
+- Upstream path: `skills/discernment-nudge`
+- Upstream commit: `e4bb5d960d87126ff3b3a8af1a104b7db67560ba` (https://github.com/anthropics/skills/tree/e4bb5d960d87126ff3b3a8af1a104b7db67560ba/skills/discernment-nudge)
+- Original authors: Anthropic, PBC
+- License: Apache-2.0 (full text in `LICENSE.txt`; it governs every file in this folder except this SOURCE.md)
+- Imported into Falcon-Tech-Systems/collabrium-skills on 2026-11-18
+
+## Changes from upstream
+
+- frontmatter `license` changed from `Complete terms in LICENSE.txt` to `Apache-2.0 (full text in LICENSE.txt)`
+- this SOURCE.md was added (attribution only)
